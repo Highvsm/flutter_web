@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/flutter/flutter_web)
+
 **This repository is no longer maintained.**
 
 As of September 10, 2019, Flutter for web development has fully moved
